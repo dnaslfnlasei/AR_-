@@ -1,5 +1,5 @@
-# ARShop
-Use augmented reality to create an effect similar to what you actually wore.
+# AR Shop
+Used augmented reality to create an effect similar to what you actually wore.
 
 
 ## Preview
