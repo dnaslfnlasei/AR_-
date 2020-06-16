@@ -4,7 +4,7 @@ Use augmented reality to create an effect similar to what you actually wore.
 
 ## Preview
   
-|ARService                      |Main                       |
+|AR Service                      |Main                       |
 |-------------------------------|-----------------------------|
 |<img src="image/arservice.png"  width="270" height="585">|<img src="image/main.png"  width="270" height="585">          |
 
