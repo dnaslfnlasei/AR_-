@@ -1,2 +1,0 @@
-configurations.maybeCreate("default")
-artifacts.add("default", file('google_ar_required.aar'))
